@@ -1,0 +1,6 @@
+{
+  "name": "TechStudy Hub",
+  "description": "An all-in-one academic and career learning platform for technology students: courses, interactive data & coding labs, career roadmaps, projects, quizzes, and study resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
